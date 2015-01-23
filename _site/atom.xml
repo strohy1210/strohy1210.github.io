@@ -4,7 +4,7 @@
  <title>Poole</title>
  <link href="http://getpoole.com/atom.xml" rel="self"/>
  <link href="http://getpoole.com/"/>
- <updated>2015-01-23T14:40:12-05:00</updated>
+ <updated>2015-01-23T15:30:22-05:00</updated>
  <id>http://getpoole.com</id>
  <author>
    <name>Mark Otto</name>
@@ -13,210 +13,341 @@
 
  
  <entry>
-   <title>Introducing Poole</title>
-   <link href="http://getpoole.com//2014/01/02/introducing-poole/"/>
-   <updated>2014-01-02T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2014/01/02/introducing-poole</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
+   <title>The Dj Industry Part Ii</title>
+   <link href="http://getpoole.com//2015/01/10/the-dj-industry-part-ii/"/>
+   <updated>2015-01-10T00:00:00-05:00</updated>
+   <id>http://getpoole.com/2015/01/10/the-dj-industry-part-ii</id>
+   <content type="html">
 
-&lt;hr /&gt;
+&lt;time class=&#39;entry-date&#39; datetime=&#39;2015-01-10T16:07:06-05:00&#39;&gt;&lt;span class=&#39;date&#39;&gt;&lt;span class=&#39;date-month&#39;&gt;Jan&lt;/span&gt; &lt;span class=&#39;date-day&#39;&gt;10&lt;/span&gt;&lt;span class=&#39;date-suffix&#39;&gt;th&lt;/span&gt;, &lt;span class=&#39;date-year&#39;&gt;2015&lt;/span&gt;&lt;/span&gt; &lt;span class=&#39;time&#39;&gt;4:07 pm&lt;/span&gt;&lt;/time&gt;
+        
+      &lt;/p&gt;
+    
+  &lt;/header&gt;
 
-&lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.&lt;/p&gt;
 
-&lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
+&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;So last night (a Friday) I did a little more field research, which ended in me partying in the basement of Bowery Electric.  Summary below:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://hyde.getpoole.com&quot;&gt;Hyde&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://lanyon.getpoole.com&quot;&gt;Lanyon&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Beauty Bar (dive on 14th st between 2nd and 3rd ave)
+I roll in around 8:30 and talk to the older woman DJing (from 7-11pm). She says she used to spin every week there and now is only asked to spin once per month on the happy hour shift. She says for the 4 hours she works, she makes about $75- but it&amp;rsquo;s not about the money, she does it becaue she loves it.&lt;/p&gt;
 
-&lt;p&gt;Learn more and contribute on &lt;a href=&quot;https://github.com/poole&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Bar 13 (sports bar on 9th and 2nd ave)
+This bar is always filled with the &amp;lsquo;I just turned 21 crowd&amp;rsquo;. Cheap drinks and beer pong.  The DJ booth is this awful box at the end of the bar - you can barely see the guy. It&amp;rsquo;s unlikely people know that there is a DJ. In fact, even though I&amp;rsquo;d been there a number of times, I wasn&amp;rsquo;t sure they ever hired one. I go up to talk to the DJ, his name&amp;rsquo;s Anthony, and he says that he&amp;rsquo;s making less than $200 for over &lt;em&gt;6 hours&lt;/em&gt; of DJing. I ask him how he got hired and he says he knows the guy responsible for hiring the DJs beause they went to college together and that he&amp;rsquo;s actually a tech recruiter by day (interesting). The DJ says the whole business is quite &amp;ldquo;incestuous.&amp;rdquo; You hire who you know. That&amp;rsquo;s nothing new to me.&lt;/p&gt;
 
-&lt;h3 id=&quot;whats-included&quot;&gt;What’s included&lt;/h3&gt;
+&lt;p&gt;Solas(9th st between 2nd and 3rd ave)
+I sit at the bar and asked the manager about how he hires DJs. He got super cagey once I got to question 3. Anyway the DJ that spins there regularly is apparantly exclusively responsible for hiring any other DJs.&lt;/p&gt;
 
-&lt;p&gt;Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it, includes the following:&lt;/p&gt;
+&lt;p&gt;Whisky Town (~4th and 2nd ave)
+The place is empty when I walk in around 10pm. I talk to one of the bartenders for a while- he&amp;rsquo;s very nice. He tells me that one managers hires the DJs for all 4 of the bars, which are under the same management. There are the same people each Thurs, Fri and Sat that regularly spin. He says that if I were to get a job, they&amp;rsquo;d require me to play &amp;ldquo;top-40 generic kind of music just so I know that&amp;rsquo;s what I&amp;rsquo;d be getting into.&amp;rdquo;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Von Keller AKA Von (Bowery and Bleaker)
+The place is very crowded and people are having a good time. I had a friend who used to DJ here every Wednesday. He played mostly hip hop. I go up to the DJ and ask him how how much he charges?  He takes a beat and before he can answer, I say &amp;ldquo;you&amp;rsquo;d charge more for a private event then something like this&amp;rdquo; he nods n agreement. He said he&amp;rsquo;d charge anywhere from $500-1000 for a private party and hands me his card.&lt;/p&gt;
 
-&lt;p&gt;Additional features are available in individual themes.&lt;/p&gt;
+&lt;p&gt;Bowery Electric (2nd and Bowery)
+I was here most of the night and had a generally good time. What I noticed was people were dancing and having a lot of fun. The DJ played mostly top-40, some older songs, some new pop songs that I wasn&amp;rsquo;t familiar with but the groups of 22 year olds were singing along to like they were on stage Just because someone plays the crowd-pleasers doesn&amp;rsquo;t mean I&amp;rsquo;m not going to enjoy it or that the DJ isn&amp;rsquo;t good. But there are very obvious changes to how a DJ plays a progression of music that regardless of the song selection, distinguish a shitty DJ. And it baffles and hurts when someone in a position as a DJ at a crowded popular bar can&amp;rsquo;t do that bear minimum. For example, the DJ regularly was playing almost the ENTIRE song. Like, it&amp;rsquo;s fine that you played Katy Perry -Last Friday Night- I genuinely like that song but when you&amp;rsquo;ve gotten to &lt;em&gt;the third verse &lt;/em&gt; Seriously, the third verse, you&amp;rsquo;ve done something wrong.&lt;/p&gt;
 
-&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
+&lt;p&gt;But then on the same token, it didn&amp;rsquo;t really matter. People, for the most part, were having a blast. I had a good time dancing and singing along to few of the songs, whereas others made me want to go up there and smash her laptop. They made me genuinely angry.&lt;/p&gt;
 
-&lt;p&gt;Poole and it’s themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t think they crowd was as discerning as me.&lt;/p&gt;
 
-&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
+&lt;p&gt;What does this mean in terms of DeeJBase?&lt;/p&gt;
 
-&lt;p&gt;Poole is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/poole&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
+&lt;p&gt;There are 2 types of people in this industry:
+1. Those who care about a crowded room where people are drinking and having fun. These people include, pretty much any bar manager, pretty much any DJ, and most consumers of DJ music and nightlife - people like you and me. This is what matters most in a general sense. This is why people at stay out and drink and make the business possible.&lt;br&gt;
+2. Then there are people who care not only about having a good time, about drinking and dancing, but about the art of DJing - that appreciate a DJ that doesn&amp;rsquo;t just play &amp;ldquo;crowd pleasers.&amp;rdquo; And even if they stick with top-40 that they play that music in a way that make sense, that they transition seamlessly, that they don&amp;rsquo;t keep them same on for more than 2 minutes, that keeps us interested beyond the cheap shots.  Those people who care- who value &lt;em&gt;the art&lt;/em&gt;, those are the people that I want to bring together - that need a voice. And those people include a subset of bar managers like those at Folly, VIP Room, and Madame X. A subset of nightlife consumers, like myself. And many, not all, but many DJs. Many DJs who have no gigs - who would also work for peanuts and deserve that rush that comes with seeing an elated crowd.&lt;/p&gt;
 
-&lt;p&gt;Thanks!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Example content</title>
-   <link href="http://getpoole.com//2014/01/01/example-content/"/>
-   <updated>2014-01-01T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2014/01/01/example-content</id>
-   <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+&lt;p&gt;So that&amp;rsquo;s what DeeJBase is for. It&amp;rsquo;s for talented DJs, the people who hire them, and the people who love them.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
-
-&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
-
-&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
-
-&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
-
-&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
-
-&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;gists-via-github-pages&quot;&gt;Gists via GitHub Pages&lt;/h3&gt;
-
-&lt;p&gt;Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.&lt;/p&gt;
-
-&lt;script src=&quot;https://gist.github.com/5555251.js?file=gist.md&quot;&gt; &lt;/script&gt;
-
-&lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.&lt;/p&gt;
-
-&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
-  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
-  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
-  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
-  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
-  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
-
-  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
-  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
-
-  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
-  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
-
-&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;
-&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;
-&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Upvotes&lt;/th&gt;
-      &lt;th&gt;Downvotes&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Totals&lt;/td&gt;
-      &lt;td&gt;21&lt;/td&gt;
-      &lt;td&gt;23&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Alice&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bob&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Charlie&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
+  &lt;footer&gt;
+    &lt;p class=&quot;meta&quot;&gt;
+      
 </content>
  </entry>
  
  <entry>
-   <title>What's Jekyll?</title>
-   <link href="http://getpoole.com//2013/12/31/whats-jekyll/"/>
-   <updated>2013-12-31T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2013/12/31/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+   <title>My Pride And Joy</title>
+   <link href="http://getpoole.com//2015/01/10/my-pride-and-joy/"/>
+   <updated>2015-01-10T00:00:00-05:00</updated>
+   <id>http://getpoole.com/2015/01/10/my-pride-and-joy</id>
+   <content type="html">
 
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;time class=&#39;entry-date&#39; datetime=&#39;2015-01-09T09:35:14-05:00&#39;&gt;&lt;span class=&#39;date&#39;&gt;&lt;span class=&#39;date-month&#39;&gt;Jan&lt;/span&gt; &lt;span class=&#39;date-day&#39;&gt;9&lt;/span&gt;&lt;span class=&#39;date-suffix&#39;&gt;th&lt;/span&gt;, &lt;span class=&#39;date-year&#39;&gt;2015&lt;/span&gt;&lt;/span&gt; &lt;span class=&#39;time&#39;&gt;9:35 am&lt;/span&gt;&lt;/time&gt;
+        
+      &lt;/p&gt;
+    
+  &lt;/header&gt;
 
-&lt;p&gt;It’s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;I can safely say that &lt;a href= &quot;http://www.deejbase.com&quot;&gt;DeeJBase.com&lt;/a&gt;, my baby, has grown up to be an awesome website. Here are some of my technical milestones over the past month. I have built:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;A database with about 250 real NYC DJs with photos and demos from soundcloud.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A log-in system allowing human DJ&amp;rsquo;s to claim and control their profiles through in invitation emailing system.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;As of yesterday, I was able to use Facebook Graph to cross reference the majority of DJ&amp;rsquo;s in my database with their facbook pages and pull in their number of likes and well as some other info.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A way of filtering through each DJ&amp;rsquo;s tracks&amp;#8217; taglists and finding genres to associate with each DJ based on key words in the tag lists of their tracks.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A cool design with a search feature and the ability to filter DJ&amp;rsquo;s by genre and soundcloud followers.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A like button connected to my Deejbase facebook page.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;I&amp;rsquo;m really proud of the site so far. And honestly it&amp;rsquo;s been a pleasure - to have a vision and at first, have no idea how you are going to get from point a to point b and then building a scaffold, pouring over API documentation, figuring out algorithms on the back end to parse data. Automating something using code that would take a human countless tedious hours to do manually. Then when you feel like getting artsy, making some design changes on the front-end.&lt;/p&gt;
+
+&lt;p&gt;Full-stack web developement is amazing. I. love. it.&lt;/p&gt;
+
+&lt;p&gt;But now I need to get real and put on my business, lean-startup hat. As of two days ago, I had talked to a bunch of other (succesfull and unsuccesful) entrepreneurs for advice but hadn&amp;rsquo;t really interfaced with many potential target customers (venues and event-planners hiring DJs). So that&amp;rsquo;s what I started doing yesterday. I&amp;rsquo;m going to write a separate post about that.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Predictive Algorithms</title>
+   <link href="http://getpoole.com//2015/01/05/predictive-algorithms/"/>
+   <updated>2015-01-05T00:00:00-05:00</updated>
+   <id>http://getpoole.com/2015/01/05/predictive-algorithms</id>
+   <content type="html">
+
+&lt;time class=&#39;entry-date&#39; datetime=&#39;2015-01-05T10:37:03-05:00&#39;&gt;&lt;span class=&#39;date&#39;&gt;&lt;span class=&#39;date-month&#39;&gt;Jan&lt;/span&gt; &lt;span class=&#39;date-day&#39;&gt;5&lt;/span&gt;&lt;span class=&#39;date-suffix&#39;&gt;th&lt;/span&gt;, &lt;span class=&#39;date-year&#39;&gt;2015&lt;/span&gt;&lt;/span&gt; &lt;span class=&#39;time&#39;&gt;10:37 am&lt;/span&gt;&lt;/time&gt;
+        
+      &lt;/p&gt;
+    
+
+
+
+&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;So, you&amp;rsquo;ve got a data set, you say? Some points And you&amp;rsquo;re not sure what do with them. Maybe you have a set of x and y coordinates?&lt;/p&gt;
+
+&lt;p&gt;In my case, I had a set of coordinates, each representing the number of an DJs followers on SoundCloud. I had another set of coordinates that represented an DJ&amp;rsquo;s cost per night.&lt;/p&gt;
+
+&lt;p&gt;I wanted to be able to use this data set to be able to predict given an artist&amp;rsquo;s Soundcloud followers count, how much they might cost! So which set is the x and which is the y? And how do I go about this?&lt;/p&gt;
+
+&lt;p&gt;A great Rubyist once said, now we&amp;rsquo;re in math world, so let&amp;rsquo;s go to the Google.&lt;/p&gt;
+
+&lt;p&gt;I found these two sites, which combined helped me make my algorithm pretty easily.&lt;/p&gt;
+
+&lt;p&gt;The data we have is x and the data we are predicting would be y.&lt;/p&gt;
+
+&lt;p&gt;In this website all you do is plug in your x, y coordinates and it creates for lines of best fit.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.had2know.com/academics/regression-calculator-statistics-best-fit.html&quot;&gt;http://www.had2know.com/academics/regression-calculator-statistics-best-fit.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure class=&#39;code&#39;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#39;line-number&#39;&gt;1&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;2&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;3&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;4&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;5&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;6&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;7&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;8&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;9&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;10&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;11&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;12&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;13&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;14&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;15&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;16&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;17&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;18&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;19&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#39;code&#39;&gt;&lt;pre&gt;&lt;code class=&#39;&#39;&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;4 Regression Equations
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;X independent, Y dependent
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;Linear: Y = AX + B:
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;Y = 0.2243X + 258.589
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;correlation = 0.9954
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;Exponential: Y = C(D^X):
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;Y = 349.6169(1.0001^X)
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;correlation = 0.8647
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;Power: Y = E(X^F):
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;Y = 31.8027(X^0.4464)
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;correlation = 0.8692
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;Logarithmic: Y = G + H(Ln(X)):
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;Y = -3363.0363 + 713.5463Ln(X)
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;correlation = 0.7238
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;Then you can use this site to graph them - which isn&amp;rsquo;t technically necessary but it helped me see which type of line seemed to make sense.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.mathsisfun.com/data/grapher-equation.html&quot;&gt;http://www.mathsisfun.com/data/grapher-equation.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s pretty neat and helped me discover the following method aka my predictive algorithm. (sdcl_followers is an attribute of a Dj.)&lt;/p&gt;
+
+&lt;figure class=&#39;code&#39;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#39;line-number&#39;&gt;1&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;2&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;3&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;4&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;5&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;6&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;7&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#39;code&#39;&gt;&lt;pre&gt;&lt;code class=&#39;ruby&#39;&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Dj&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ActiveRecord&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Base&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;rate_get&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;    &lt;span class=&quot;mi&quot;&gt;29&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3447&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sdcl_followers&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4635&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;That all said, this algorithm is pretty shit. It turns out soundcloud followers isn&amp;rsquo;t the greatest determiner of cost/night. I&amp;rsquo;ll need to take some other factors into account.&lt;/p&gt;
+
+&lt;p&gt;Hope this is helpful.&lt;/p&gt;
+&lt;/div&gt;
+
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Infinite Loop Dreams</title>
+   <link href="http://getpoole.com//2014/10/02/infinite-loop-dreams/"/>
+   <updated>2014-10-02T00:00:00-04:00</updated>
+   <id>http://getpoole.com/2014/10/02/infinite-loop-dreams</id>
+   <content type="html">
+&lt;time class=&#39;entry-date&#39; datetime=&#39;2014-10-07T07:48:57-04:00&#39;&gt;&lt;span class=&#39;date&#39;&gt;&lt;span class=&#39;date-month&#39;&gt;Oct&lt;/span&gt; &lt;span class=&#39;date-day&#39;&gt;7&lt;/span&gt;&lt;span class=&#39;date-suffix&#39;&gt;th&lt;/span&gt;, &lt;span class=&#39;date-year&#39;&gt;2014&lt;/span&gt;&lt;/span&gt; &lt;span class=&#39;time&#39;&gt;7:48 am&lt;/span&gt;&lt;/time&gt;
+        
+      &lt;/p&gt;
+    
+  &lt;/header&gt;
+
+
+&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;&amp;ldquo;How do I get out&amp;hellip;how do I get out? If I don&amp;rsquo;t exit this loop, I won&amp;rsquo;t get up in time for school. What code do I need!?!?&lt;/p&gt;
+
+&lt;figure class=&#39;code&#39;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#39;line-number&#39;&gt;1&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;2&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;3&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;4&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;5&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#39;code&#39;&gt;&lt;pre&gt;&lt;code class=&#39;ruby&#39;&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;c1&quot;&gt;#nonsense code&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Sarah&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;really&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;crazy&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;n&quot;&gt;keep&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sleeping&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;n&quot;&gt;crazy&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;I wake up in a panic, but also happy I&amp;rsquo;m out of that damn inifinite loop trying to sabotage my life. 12:13am. I&amp;rsquo;ve been asleep for an hour and a half.&lt;/p&gt;
+
+&lt;p&gt;I go back to sleep.&lt;/p&gt;
+
+&lt;p&gt;Besides leading to a questioning of my sanity, this dream made me ponder why exactly infinite loops exist in Ruby and other coding languages.&lt;/p&gt;
+
+&lt;p&gt;Why would such a thoughtful, powerful thing allow you to do something which could break it? Shouldn&amp;rsquo;t Ruby be able to do an unoticeably fast scan of your code before it interprets each line to check for an inifinite loop and let you know?&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not suggesting that it should. I&amp;rsquo;m just trying to wrap my head around it.&lt;/p&gt;
+
+&lt;p&gt;Give me a second while I google this&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Ok. I&amp;rsquo;m back.&lt;/p&gt;
+
+&lt;p&gt;Apparantly, Alan Turing thought of this problem before the advent of modern computers&amp;hellip;in 1936!&lt;/p&gt;
+
+&lt;p&gt;The problem of determining whether a loop is infinite or not is called &amp;ldquo;The halting problem&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;He said that an algorithm to solve this problem cannot exist. &amp;ldquo;One approach to the problem might be to run the program for some number of steps and check if it halts. But if the program does not halt, it is unknown whether the program will eventually halt or run forever.&amp;rdquo;- wikipedia&lt;/p&gt;
+
+&lt;p&gt;Basically the computer can never know whether at some point the loop will end or not. Maybe if it keeps going, in 3 years the loop will end. It doesn&amp;rsquo;t know that for sure.&lt;/p&gt;
+
+&lt;p&gt;Although still, you&amp;rsquo;d think there are certain circumstances where we could know for sure that the loop is inifinite and tell the computer to recognize those instances.&lt;/p&gt;
+
+&lt;figure class=&#39;code&#39;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#39;line-number&#39;&gt;1&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;2&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;3&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;4&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;5&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;6&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;7&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#39;code&#39;&gt;&lt;pre&gt;&lt;code class=&#39;ruby&#39;&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;sarah&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;size&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;looping forever&amp;quot;&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;looping&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;forever&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;looping&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;forever&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;looping&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;forever&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;Wow, don&amp;rsquo;t want to do that again. This must have run 1000 times in irb in the time that it took me to hit control+c and abort.&lt;/p&gt;
+
+&lt;p&gt;Given a loop like the one above, can&amp;rsquo;t we tell Ruby to flag it in some way? I assume there is a way to do that. I assume it wouldn&amp;rsquo;t be extremely difficult to do. But there would probably be consequences. By doing that, we&amp;rsquo;d be setting limits on ourselves.&lt;/p&gt;
+
+&lt;p&gt;Maybe there are things we do want to run forever until we define some other code to stop it.&lt;/p&gt;
+
+&lt;p&gt;The halting problem is a symbol of the power we have over our computers. If we want the computer to repeat something a bizzillion times till we tell it to stop, we can. I don&amp;rsquo;t have any friends that I can say the same for.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, in Ruby, this is not a problem I find myself having very often anway. We can iterate using the .each and .times methods, which can allow us to circumvent &amp;ldquo;while&amp;rdquo;.&lt;/p&gt;
+
+&lt;figure class=&#39;code&#39;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#39;line-number&#39;&gt;1&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;2&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;3&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;4&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;5&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;6&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;7&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;8&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;9&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;10&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;11&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;12&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;13&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;14&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#39;code&#39;&gt;&lt;pre&gt;&lt;code class=&#39;ruby&#39;&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;263&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;crzyyyyyyy&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;times&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;264&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;       &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;take it easy, bra&amp;quot;&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;265&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;?&amp;gt;&lt;/span&gt;   &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;take&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;easy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bra&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;take&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;easy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bra&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;take&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;easy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bra&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;take&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;easy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bra&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;take&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;easy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bra&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;take&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;easy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bra&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;take&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;easy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bra&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;take&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;easy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bra&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;take&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;easy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bra&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;n&quot;&gt;take&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;easy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bra&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+
+
+
+&lt;/div&gt;
+
+
+  &lt;footer&gt;
+      
+  
+
+&lt;span class=&quot;byline author vcard&quot;&gt;Posted by &lt;span class=&quot;fn&quot;&gt;Sarah Stroh&lt;/span&gt;&lt;/span&gt;
+
+      
+
+  
+  &lt;a href=&quot;//twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-url=&quot;http://strohy1210.github.io/blog/2014/10/07/infinite-loop/&quot; data-via=&quot;&quot; data-counturl=&quot;http://strohy1210.github.io/blog/2014/10/07/infinite-loop/&quot; &gt;Tweet&lt;/a&gt;
+  
+ 
+&lt;/footer&gt;
+
+  &lt;script type=&quot;text/javascript&quot;&gt;
+    (function(){
+      var twitterWidgets = document.createElement(&#39;script&#39;);
+      twitterWidgets.type = &#39;text/javascript&#39;;
+      twitterWidgets.async = true;
+      twitterWidgets.src = &#39;//platform.twitter.com/widgets.js&#39;;
+      document.getElementsByTagName(&#39;head&#39;)[0].appendChild(twitterWidgets);
+    })();
+  &lt;/script&gt;
+
+
+
+
+
+&lt;/body&gt;
+&lt;/html&gt;
 </content>
  </entry>
  
