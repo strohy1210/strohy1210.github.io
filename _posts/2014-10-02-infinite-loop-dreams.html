@@ -1,0 +1,296 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Infinite Loop Dreams - Programmer.new</title>
+  <meta name="author" content="Sarah Stroh">
+
+  
+  <meta name="description" content="&ldquo;How do I get out&hellip;how do I get out? If I don&rsquo;t exit this loop, I won&rsquo;t get up in time for school. What code do I need!?!? 1 &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://strohy1210.github.io/blog/2014/10/07/infinite-loop">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Programmer.new" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Programmer.new</a></h1>
+  
+    <h2>Taking it One Line at a Time</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:strohy1210.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Infinite Loop Dreams</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2014-10-07T07:48:57-04:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>7</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>7:48 am</span></time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>&ldquo;How do I get out&hellip;how do I get out? If I don&rsquo;t exit this loop, I won&rsquo;t get up in time for school. What code do I need!?!?</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="c1">#nonsense code</span>
+</span><span class='line'><span class="k">while</span> <span class="no">Sarah</span> <span class="o">==</span> <span class="n">really</span> <span class="n">crazy</span>
+</span><span class='line'>  <span class="n">keep</span> <span class="n">sleeping</span>
+</span><span class='line'>  <span class="n">crazy</span> <span class="o">-=</span><span class="mi">1</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>I wake up in a panic, but also happy I&rsquo;m out of that damn inifinite loop trying to sabotage my life. 12:13am. I&rsquo;ve been asleep for an hour and a half.</p>
+
+<p>I go back to sleep.</p>
+
+<p>Besides leading to a questioning of my sanity, this dream made me ponder why exactly infinite loops exist in Ruby and other coding languages.</p>
+
+<p>Why would such a thoughtful, powerful thing allow you to do something which could break it? Shouldn&rsquo;t Ruby be able to do an unoticeably fast scan of your code before it interprets each line to check for an inifinite loop and let you know?</p>
+
+<p>I&rsquo;m not suggesting that it should. I&rsquo;m just trying to wrap my head around it.</p>
+
+<p>Give me a second while I google this&hellip;</p>
+
+<p>Ok. I&rsquo;m back.</p>
+
+<p>Apparantly, Alan Turing thought of this problem before the advent of modern computers&hellip;in 1936!</p>
+
+<p>The problem of determining whether a loop is infinite or not is called &ldquo;The halting problem&rdquo;</p>
+
+<p>He said that an algorithm to solve this problem cannot exist. &ldquo;One approach to the problem might be to run the program for some number of steps and check if it halts. But if the program does not halt, it is unknown whether the program will eventually halt or run forever.&rdquo;- wikipedia</p>
+
+<p>Basically the computer can never know whether at some point the loop will end or not. Maybe if it keeps going, in 3 years the loop will end. It doesn&rsquo;t know that for sure.</p>
+
+<p>Although still, you&rsquo;d think there are certain circumstances where we could know for sure that the loop is inifinite and tell the computer to recognize those instances.</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">while</span> <span class="s2">&quot;sarah&quot;</span><span class="o">.</span><span class="n">size</span> <span class="o">&gt;</span> <span class="mi">0</span>
+</span><span class='line'>  <span class="nb">puts</span> <span class="s2">&quot;looping forever&quot;</span>
+</span><span class='line'><span class="k">end</span>
+</span><span class='line'><span class="n">looping</span> <span class="n">forever</span>
+</span><span class='line'><span class="n">looping</span> <span class="n">forever</span>
+</span><span class='line'><span class="n">looping</span> <span class="n">forever</span>
+</span><span class='line'><span class="o">.</span><span class="n">.</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Wow, don&rsquo;t want to do that again. This must have run 1000 times in irb in the time that it took me to hit control+c and abort.</p>
+
+<p>Given a loop like the one above, can&rsquo;t we tell Ruby to flag it in some way? I assume there is a way to do that. I assume it wouldn&rsquo;t be extremely difficult to do. But there would probably be consequences. By doing that, we&rsquo;d be setting limits on ourselves.</p>
+
+<p>Maybe there are things we do want to run forever until we define some other code to stop it.</p>
+
+<p>The halting problem is a symbol of the power we have over our computers. If we want the computer to repeat something a bizzillion times till we tell it to stop, we can. I don&rsquo;t have any friends that I can say the same for.</p>
+
+<p>Thankfully, in Ruby, this is not a problem I find myself having very often anway. We can iterate using the .each and .times methods, which can allow us to circumvent &ldquo;while&rdquo;.</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="mi">2</span><span class="o">.</span><span class="mi">1</span><span class="o">.</span><span class="mi">2</span> <span class="p">:</span><span class="mi">263</span> <span class="o">&gt;</span> <span class="s2">&quot;crzyyyyyyy&quot;</span><span class="o">.</span><span class="n">size</span><span class="o">.</span><span class="n">times</span> <span class="k">do</span>
+</span><span class='line'><span class="mi">2</span><span class="o">.</span><span class="mi">1</span><span class="o">.</span><span class="mi">2</span> <span class="p">:</span><span class="mi">264</span> <span class="o">&gt;</span>       <span class="nb">puts</span> <span class="s2">&quot;take it easy, bra&quot;</span>
+</span><span class='line'><span class="mi">2</span><span class="o">.</span><span class="mi">1</span><span class="o">.</span><span class="mi">2</span> <span class="p">:</span><span class="mi">265</span><span class="o">?&gt;</span>   <span class="k">end</span>
+</span><span class='line'><span class="n">take</span> <span class="n">it</span> <span class="n">easy</span><span class="p">,</span> <span class="n">bra</span>
+</span><span class='line'><span class="n">take</span> <span class="n">it</span> <span class="n">easy</span><span class="p">,</span> <span class="n">bra</span>
+</span><span class='line'><span class="n">take</span> <span class="n">it</span> <span class="n">easy</span><span class="p">,</span> <span class="n">bra</span>
+</span><span class='line'><span class="n">take</span> <span class="n">it</span> <span class="n">easy</span><span class="p">,</span> <span class="n">bra</span>
+</span><span class='line'><span class="n">take</span> <span class="n">it</span> <span class="n">easy</span><span class="p">,</span> <span class="n">bra</span>
+</span><span class='line'><span class="n">take</span> <span class="n">it</span> <span class="n">easy</span><span class="p">,</span> <span class="n">bra</span>
+</span><span class='line'><span class="n">take</span> <span class="n">it</span> <span class="n">easy</span><span class="p">,</span> <span class="n">bra</span>
+</span><span class='line'><span class="n">take</span> <span class="n">it</span> <span class="n">easy</span><span class="p">,</span> <span class="n">bra</span>
+</span><span class='line'><span class="n">take</span> <span class="n">it</span> <span class="n">easy</span><span class="p">,</span> <span class="n">bra</span>
+</span><span class='line'><span class="n">take</span> <span class="n">it</span> <span class="n">easy</span><span class="p">,</span> <span class="n">bra</span>
+</span><span class='line'> <span class="o">=&gt;</span> <span class="mi">10</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>&#8220;</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Sarah Stroh</span></span>
+
+      
+
+
+
+
+<time class='entry-date' datetime='2014-10-07T07:48:57-04:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>7</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>7:48 am</span></time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://strohy1210.github.io/blog/2014/10/07/infinite-loop/" data-via="" data-counturl="http://strohy1210.github.io/blog/2014/10/07/infinite-loop/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2014/10/02/deploy/" title="Previous Post: Deploy">&laquo; Deploy</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2014/10/19/hackaddiction/" title="Next Post: Hackaddiction">Hackaddiction &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2015/01/10/the-dj-industry-part-ii/">The DJ Industry Part II</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/01/09/the-4-faces-of-the-nyc-venue/">The 4 Faces of the NYC Venue</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/01/09/my-price-and-joy/">My Pride and Joy</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/01/05/predictive-algorithms/">Predictive Algorithms</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/12/15/entrepeurneur-dot-new/">Entrepreneur.new</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2015 - Sarah Stroh -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
