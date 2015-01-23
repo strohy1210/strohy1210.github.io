@@ -4,7 +4,7 @@
  <title>Poole</title>
  <link href="http://getpoole.com/atom.xml" rel="self"/>
  <link href="http://getpoole.com/"/>
- <updated>2015-01-23T15:30:22-05:00</updated>
+ <updated>2015-01-23T15:37:43-05:00</updated>
  <id>http://getpoole.com</id>
  <author>
    <name>Mark Otto</name>
@@ -199,6 +199,37 @@ I was here most of the night and had a generally good time. What I noticed was p
 
 &lt;p&gt;Hope this is helpful.&lt;/p&gt;
 &lt;/div&gt;
+
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Entrepreneur Dot New</title>
+   <link href="http://getpoole.com//2014/12/15/entrepreneur-dot-new/"/>
+   <updated>2014-12-15T00:00:00-05:00</updated>
+   <id>http://getpoole.com/2014/12/15/entrepreneur-dot-new</id>
+   <content type="html">&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;I&amp;rsquo;m an entrepreneur. I don&amp;rsquo;t yet have a successful business. But I am building one. Using Lean Startup methodology a la Eric Reise.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t know exactly what the end product I build will be or look like, just that there is a problem in the NYC DJ Market, an information gap so to speak. And it needs to be closed. There are far too many talented DJs and far too many places hiring shitty acts. There are far too many middle men where there needn&amp;rsquo;t be. Not enough data on how good a DJ is, how much they should be hired for, and where to find them.&lt;/p&gt;
+
+&lt;p&gt;I want to build a product that solves this market inefficiency.&lt;/p&gt;
+
+&lt;p&gt;I built a preliminary product, or MVP (minimum viable product). It&amp;rsquo;s the skeleton of a hiring network. There&amp;rsquo;s just no data in it (making it useless). The next step, therefore, is getting a ton of data on NYC DJs to present to NYC venues (my customer) to use as a hiring tool (think Elance for DJs). I figure once venues are using the product, then it won&amp;rsquo;t be hard to convince aspiring DJs to sign up on their own.&lt;/p&gt;
+
+&lt;p&gt;For the past few weeks, I was trying to figure out how to get this data as quickly as possible, so that I can  quickly measure how the customer responds to the product and revamp the product based on that new knowledge (Eric Reise&amp;rsquo;s &amp;lsquo;build, measure, learn&amp;rsquo; feedback loop). Today, I poured over Spotify and Soundcloud API docs and what I learned was promising. I may be able to get most of the data I need pretty easily.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for part II of this post.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Entrepreneurship is a special kind of insanity&amp;rdquo; -me&lt;/p&gt;
+
+&lt;p&gt;UPDATE 1/9/15&lt;/p&gt;
+
+&lt;p&gt;I realized I never followed up on this post. Shortly after I wrote part I, I was able to get around 250 djs in my database from SoundCloud&amp;rsquo;s api!&lt;/p&gt;
+
+&lt;p&gt;How? Out of 8000 possible users I could have added, I filtered for ones that indicated they were in NY, included contact info in their bios and had a paid plan- this was my best way of distinguishing between regular users - aka non-DJs - and DJs. This way of filtering ended up working fairly well, although I had to do some manual filtering out of agencys and non-music related entities that also have accounts on SoundCloud (e.g. New York Magazine, Def Records). I also have a Tracks table and have taken about 5 demos for each DJ using their SoundCloud IDs. I was pretty psyched when that all worked out.&lt;/p&gt;
+&lt;/div&gt;
+
 
 
 </content>

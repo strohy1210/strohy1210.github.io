@@ -1,0 +1,177 @@
+
+<time class='entry-date' datetime='2014-10-29T18:50:03-04:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>29</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>6:50 pm</span></time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>First technical post. Yes, this is my first post where I actually take my instructor&rsquo;s advice, which is to blog about the things in Ruby and Rails I am least certain about in an effort to better understand them.</p>
+
+<p>One thing that I&rsquo;m pretty sure is going to come in handy but don&rsquo;t feel comfortable with is the Ruby Module. Let&rsquo;s start simple and then extract. Module - what is it?</p>
+
+<p>&ldquo;Same, same, Class but different&rdquo;</p>
+
+<p>Just like a class it is a:</p>
+
+<ol>
+<li>Object - just like everything else in Ruby</li>
+<li>Constant</li>
+</ol>
+
+
+<p>And maybe other stuff, but I said I&rsquo;d keep it simple for your sake of course (cough cough and mine).</p>
+
+<p>Ok so let&rsquo;s just write some code:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">module</span> <span class="nn">Singlish</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">possible?</span>
+</span><span class='line'>    <span class="s2">&quot;Can, lah!?&quot;</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">available?</span>
+</span><span class='line'>    <span class="s2">&quot;Have?&quot;</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Ok so say you&rsquo;re at 7/11 but in SINGAPORE or something and you want to find out if they sell Thai Redbull - very common situation. So you want to mixin your Singlish module into your English class so that you can call on some instance methods which basically translate your English to Singlish for you. We mixin the Singlish module by using the Ruby &ldquo;include&rdquo; keyword:</p>
+
+<p>Can, la!</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">English</span>
+</span><span class='line'>
+</span><span class='line'><span class="kp">include</span> <span class="no">Singlish</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Now you can do this:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="mi">2</span><span class="o">.</span><span class="mi">1</span><span class="o">.</span><span class="mi">2</span> <span class="p">:</span><span class="mo">030</span> <span class="o">&gt;</span> <span class="no">English</span><span class="o">.</span><span class="n">new</span><span class="o">.</span><span class="n">possible?</span>
+</span><span class='line'> <span class="o">=&gt;</span> <span class="s2">&quot;Can, lah!?&quot;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Ok, easy right?
+But what if we want our module to have a little more functionality?</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">module</span> <span class="nn">Singlish</span>
+</span><span class='line'>  <span class="k">module</span> <span class="nn">ClassMethods</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="k">def</span> <span class="nf">translations</span>
+</span><span class='line'>      <span class="s2">&quot;I extended the Singlish module&quot;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="k">end</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="k">module</span> <span class="nn">InstanceMethods</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="k">def</span> <span class="nf">possible?</span>
+</span><span class='line'>      <span class="s2">&quot;Can, lah!?&quot;</span>
+</span><span class='line'>    <span class="k">end</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="k">def</span> <span class="nf">available?</span>
+</span><span class='line'>      <span class="s2">&quot;Have?&quot;</span>
+</span><span class='line'>    <span class="k">end</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Now within our Singlish module, we have both class and instance methods that we can mixin to our English class. But how do we do that, you ask? We continue to use the &ldquo;include&rdquo; keyword to include the module&rsquo;s instance methods in the English class. To mixin the Singlish modules&rsquo;s class methods, however, we must use the &ldquo;extend&rdquo; keyword.</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">English</span>
+</span><span class='line'>
+</span><span class='line'><span class="kp">include</span> <span class="no">Singlish</span><span class="o">::</span><span class="no">InstanceMethods</span>
+</span><span class='line'>
+</span><span class='line'><span class="kp">extend</span> <span class="no">Singlish</span><span class="o">::</span><span class="no">ClassMethods</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Now, look what we can (and can&rsquo;t) do!</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="c1">#calling the class method, made possible by extend</span>
+</span><span class='line'><span class="mi">2</span><span class="o">.</span><span class="mi">1</span><span class="o">.</span><span class="mi">2</span> <span class="p">:</span><span class="mo">02</span><span class="mi">8</span> <span class="o">&gt;</span> <span class="no">English</span><span class="o">.</span><span class="n">translations</span>
+</span><span class='line'> <span class="o">=&gt;</span> <span class="s2">&quot;I extended the Singlish module&quot;</span>
+</span><span class='line'> <span class="c1">#trying to call the class method on an instance of English does not work</span>
+</span><span class='line'><span class="mi">2</span><span class="o">.</span><span class="mi">1</span><span class="o">.</span><span class="mi">2</span> <span class="p">:</span><span class="mo">02</span><span class="mi">9</span> <span class="o">&gt;</span> <span class="no">English</span><span class="o">.</span><span class="n">new</span><span class="o">.</span><span class="n">translations</span>
+</span><span class='line'><span class="ss">NoMethodError</span><span class="p">:</span> <span class="n">undefined</span> <span class="nb">method</span> <span class="sb">`translations&#39; for #&lt;English:0x007fab3c0a7078&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="sb">#but we can call the instance methods on instances of the English class!</span>
+</span><span class='line'><span class="sb">2.1.2 :031 &gt; English.new.available?</span>
+</span><span class='line'><span class="sb"> =&gt; &quot;Don&#39;t have&quot; </span>
+</span><span class='line'><span class="sb">2.1.2 :032 &gt; English.available?</span>
+</span><span class='line'><span class="sb">NoMethodError: undefined method `</span><span class="n">available?</span><span class="err">&#39;</span> <span class="k">for</span> <span class="ss">English</span><span class="p">:</span><span class="no">Class</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>It doesn&rsquo;t technically matter what you named the nested modules within the Singlish module. In my example, I name them (reasonably) &ldquo;InstanceMethods&rdquo; and &ldquo;ClassMethods&rdquo; but I could have named them &ldquo;LeatherJacket&rdquo; and &ldquo;Tomato&rdquo;. As long as I &ldquo;include LeatherJacket&rdquo; and &ldquo;extend Tomato,&rdquo; the class wil inherit LeatherJacket&rsquo;s methods as instance methods and Tomato&rsquo;s methods as class methods for the English class to use.</p>
+</div>
+
+
