@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Poole</title>
- <link href="http://getpoole.com/atom.xml" rel="self"/>
- <link href="http://getpoole.com/"/>
- <updated>2015-01-23T15:37:43-05:00</updated>
- <id>http://getpoole.com</id>
+ <title>Programmer.new</title>
+ <link href="http://strohy1210.github.io//atom.xml" rel="self"/>
+ <link href="http://strohy1210.github.io//"/>
+ <updated>2015-01-27T14:27:32-05:00</updated>
+ <id>http://strohy1210.github.io/</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
@@ -13,74 +13,80 @@
 
  
  <entry>
-   <title>The Dj Industry Part 2</title>
-   <link href="http://getpoole.com//2015/01/10/the-dj-industry-part-ii/"/>
-   <updated>2015-01-10T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2015/01/10/the-dj-industry-part-ii</id>
-   <content type="html">
+   <title>Fitting In With The New Cool Kids</title>
+   <link href="http://strohy1210.github.io///2015/01/26/fitting-in-with-the-new-cool-kids/"/>
+   <updated>2015-01-26T00:00:00-05:00</updated>
+   <id>http://strohy1210.github.io//2015/01/26/fitting-in-with-the-new-cool-kids</id>
+   <content type="html">For the past few weeks, I&#39;ve had the opportunity to work on my &lt;a href=&quot;deejbase.com/venues&quot;&gt;website&lt;/a&gt; out of the illustrious offices of Stack Exchange (commonly confused by almost everyone I&#39;ve told this to, with the &quot;Stock Exchange&quot; - no, mom, no). Stack Exchange created &lt;a href=&quot;stackoverflow.com&quot;&gt; Stack Overflow&lt;/a&gt;, which is THE Go-To Question and Answer site for developers. The company also built a few other spin-off Q&amp;A sites (not focused on coding) using the same model.
+&lt;p&gt;
+Why am I able to chill at/take advantage of on-sight chefs/ping pong tables at Stack?
+&lt;p&gt;
+Because they participate in a program called &lt;a href=&quot;http://blog.fogcreek.com/announcing-the-fog-creek-fellowship/&quot;&gt;The Fog Creek Fellowship&lt;/a&gt;. Fog Creek (another software company with which Stack shares a co-founder) started the fellowship after having noticed that only 14% of their developer applicants were women and that all of their current developers were male.
+&lt;p&gt;
+Brainstorming ways to overcome this lack of diversity, they decided to allow select female graduates of the Flatiron School (an intensive 12-week coding course from which I graduated) to have 8 weeks of access to space at their offices and a mentor. The mentors &quot;...help fellows prepare for coding interviews, offer assistance comparing offer packages, build confidence, and help create long-lasting professional relationships.&quot; 
+&lt;p&gt;
+So, with no cost on my part, I get all the stuff mentioned above. And my mentor Jon Chan, a brilliant developer and creator of &lt;a href=&quot;bento.io&quot;&gt;Bento&lt;/a&gt;, has been nothing but supportive and awesome (and has really helped me with my website from both a technical and business standpoint).
+&lt;p&gt;
+What has also been invaluable is having the opportunity to observe this world for the first time. The only office culture I&#39;d engrossed myself in previously was the small management consulting firm I&#39;d worked at -old-school, finance - need I say more?
+&lt;p&gt;
+And although the Flatiron School (FIS) is a developer community as well, it didn&#39;t exactly paint a picture of what the professional community is really like. FIS trains non-developers to be developers and so our class was not really representative- we were more than 50% women - and people used to do all sorts of things before joining the school - consulting, finance, HR, teaching. Thus, my sense of who developers were was kind of skewed.
+&lt;p&gt;
+In contrast, many of the developers at Stack and Fog Creek/Trello, to put it bluntly, are the clich&amp;eacute.
+&lt;p&gt;
+Between Fog Creek and Stack, 2 of the dozen or so mentors got kicked out of school for hacking computers. They&#39;re all male and many wear glasses. And Stack has not 1, but 2 video game stations...
+&lt;p&gt;
+And the office- well...it&#39;s amazing - I&#39;d had the opportunity to visit Google as well and this was like a mini-version.  We&#39;ve all seen articles in Business Insider or Gawker about how Facebook has nap rooms and video games but somehow, it&#39;s not really real until you see it for yourself. My jaw still has not reattached itself to my face- why isn&#39;t every office like this!! - how did I work in finance so long? -unlimited snacks, beers, 2 chefs (1 dedicated solely to pastries) who cook gourmet lunches everyday.
+&lt;p&gt;
+Despite not knowing what its like to actually &lt;em&gt;work for&lt;/em&gt; one of these places, there are a few things you can just see.  People at Stack (developers and non developers) are &lt;em&gt;open&lt;/em&gt;, happy, honest, and excited about what the company is trying to accomplish, and I think that&#39;s what makes the place special. It&#39;s made me rethink what a business is. I&#39;m super lucky to get this insider look into what the world of tech can be and instead of working on my golf game... X-Box all the way
 
-&lt;time class=&#39;entry-date&#39; datetime=&#39;2015-01-10T16:07:06-05:00&#39;&gt;&lt;span class=&#39;date&#39;&gt;&lt;span class=&#39;date-month&#39;&gt;Jan&lt;/span&gt; &lt;span class=&#39;date-day&#39;&gt;10&lt;/span&gt;&lt;span class=&#39;date-suffix&#39;&gt;th&lt;/span&gt;, &lt;span class=&#39;date-year&#39;&gt;2015&lt;/span&gt;&lt;/span&gt; &lt;span class=&#39;time&#39;&gt;4:07 pm&lt;/span&gt;&lt;/time&gt;
-        
-      &lt;/p&gt;
-    
-  &lt;/header&gt;
-
-
-&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;So last night (a Friday) I did a little more field research, which ended in me partying in the basement of Bowery Electric.  Summary below:&lt;/p&gt;
-
-&lt;p&gt;Beauty Bar (dive on 14th st between 2nd and 3rd ave)
-I roll in around 8:30 and talk to the older woman DJing (from 7-11pm). She says she used to spin every week there and now is only asked to spin once per month on the happy hour shift. She says for the 4 hours she works, she makes about $75- but it&amp;rsquo;s not about the money, she does it becaue she loves it.&lt;/p&gt;
-
-&lt;p&gt;Bar 13 (sports bar on 9th and 2nd ave)
-This bar is always filled with the &amp;lsquo;I just turned 21 crowd&amp;rsquo;. Cheap drinks and beer pong.  The DJ booth is this awful box at the end of the bar - you can barely see the guy. It&amp;rsquo;s unlikely people know that there is a DJ. In fact, even though I&amp;rsquo;d been there a number of times, I wasn&amp;rsquo;t sure they ever hired one. I go up to talk to the DJ, his name&amp;rsquo;s Anthony, and he says that he&amp;rsquo;s making less than $200 for over &lt;em&gt;6 hours&lt;/em&gt; of DJing. I ask him how he got hired and he says he knows the guy responsible for hiring the DJs beause they went to college together and that he&amp;rsquo;s actually a tech recruiter by day (interesting). The DJ says the whole business is quite &amp;ldquo;incestuous.&amp;rdquo; You hire who you know. That&amp;rsquo;s nothing new to me.&lt;/p&gt;
-
-&lt;p&gt;Solas(9th st between 2nd and 3rd ave)
-I sit at the bar and asked the manager about how he hires DJs. He got super cagey once I got to question 3. Anyway the DJ that spins there regularly is apparantly exclusively responsible for hiring any other DJs.&lt;/p&gt;
-
-&lt;p&gt;Whisky Town (~4th and 2nd ave)
-The place is empty when I walk in around 10pm. I talk to one of the bartenders for a while- he&amp;rsquo;s very nice. He tells me that one managers hires the DJs for all 4 of the bars, which are under the same management. There are the same people each Thurs, Fri and Sat that regularly spin. He says that if I were to get a job, they&amp;rsquo;d require me to play &amp;ldquo;top-40 generic kind of music just so I know that&amp;rsquo;s what I&amp;rsquo;d be getting into.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Von Keller AKA Von (Bowery and Bleaker)
-The place is very crowded and people are having a good time. I had a friend who used to DJ here every Wednesday. He played mostly hip hop. I go up to the DJ and ask him how how much he charges?  He takes a beat and before he can answer, I say &amp;ldquo;you&amp;rsquo;d charge more for a private event then something like this&amp;rdquo; he nods n agreement. He said he&amp;rsquo;d charge anywhere from $500-1000 for a private party and hands me his card.&lt;/p&gt;
-
-&lt;p&gt;Bowery Electric (2nd and Bowery)
-I was here most of the night and had a generally good time. What I noticed was people were dancing and having a lot of fun. The DJ played mostly top-40, some older songs, some new pop songs that I wasn&amp;rsquo;t familiar with but the groups of 22 year olds were singing along to like they were on stage Just because someone plays the crowd-pleasers doesn&amp;rsquo;t mean I&amp;rsquo;m not going to enjoy it or that the DJ isn&amp;rsquo;t good. But there are very obvious changes to how a DJ plays a progression of music that regardless of the song selection, distinguish a shitty DJ. And it baffles and hurts when someone in a position as a DJ at a crowded popular bar can&amp;rsquo;t do that bear minimum. For example, the DJ regularly was playing almost the ENTIRE song. Like, it&amp;rsquo;s fine that you played Katy Perry -Last Friday Night- I genuinely like that song but when you&amp;rsquo;ve gotten to &lt;em&gt;the third verse &lt;/em&gt; Seriously, the third verse, you&amp;rsquo;ve done something wrong.&lt;/p&gt;
-
-&lt;p&gt;But then on the same token, it didn&amp;rsquo;t really matter. People, for the most part, were having a blast. I had a good time dancing and singing along to few of the songs, whereas others made me want to go up there and smash her laptop. They made me genuinely angry.&lt;/p&gt;
-
-&lt;p&gt;I don&amp;rsquo;t think they crowd was as discerning as me.&lt;/p&gt;
-
-&lt;p&gt;What does this mean in terms of DeeJBase?&lt;/p&gt;
-
-&lt;p&gt;There are 2 types of people in this industry:
-1. Those who care about a crowded room where people are drinking and having fun. These people include, pretty much any bar manager, pretty much any DJ, and most consumers of DJ music and nightlife - people like you and me. This is what matters most in a general sense. This is why people at stay out and drink and make the business possible.&lt;br&gt;
-2. Then there are people who care not only about having a good time, about drinking and dancing, but about the art of DJing - that appreciate a DJ that doesn&amp;rsquo;t just play &amp;ldquo;crowd pleasers.&amp;rdquo; And even if they stick with top-40 that they play that music in a way that make sense, that they transition seamlessly, that they don&amp;rsquo;t keep them same on for more than 2 minutes, that keeps us interested beyond the cheap shots.  Those people who care- who value &lt;em&gt;the art&lt;/em&gt;, those are the people that I want to bring together - that need a voice. And those people include a subset of bar managers like those at Folly, VIP Room, and Madame X. A subset of nightlife consumers, like myself. And many, not all, but many DJs. Many DJs who have no gigs - who would also work for peanuts and deserve that rush that comes with seeing an elated crowd.&lt;/p&gt;
-
-&lt;p&gt;So that&amp;rsquo;s what DeeJBase is for. It&amp;rsquo;s for talented DJs, the people who hire them, and the people who love them.&lt;/p&gt;
-&lt;/div&gt;
-
-
-  &lt;footer&gt;
-    &lt;p class=&quot;meta&quot;&gt;
-      
 </content>
  </entry>
  
  <entry>
-   <title>My Pride And Joy</title>
-   <link href="http://getpoole.com//2015/01/10/my-pride-and-joy/"/>
+   <title>The Dj Industry Part 2</title>
+   <link href="http://strohy1210.github.io///2015/01/10/the-dj-industry-part-2/"/>
    <updated>2015-01-10T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2015/01/10/my-pride-and-joy</id>
-   <content type="html">
+   <id>http://strohy1210.github.io//2015/01/10/the-dj-industry-part-2</id>
+   <content type="html">So last night (a Friday) I did a little more field research, which ended in me partying in the basement of Bowery Electric.  Summary below:&lt;/p&gt;
 
-&lt;time class=&#39;entry-date&#39; datetime=&#39;2015-01-09T09:35:14-05:00&#39;&gt;&lt;span class=&#39;date&#39;&gt;&lt;span class=&#39;date-month&#39;&gt;Jan&lt;/span&gt; &lt;span class=&#39;date-day&#39;&gt;9&lt;/span&gt;&lt;span class=&#39;date-suffix&#39;&gt;th&lt;/span&gt;, &lt;span class=&#39;date-year&#39;&gt;2015&lt;/span&gt;&lt;/span&gt; &lt;span class=&#39;time&#39;&gt;9:35 am&lt;/span&gt;&lt;/time&gt;
-        
-      &lt;/p&gt;
-    
-  &lt;/header&gt;
+&lt;p&gt;Beauty Bar (dive on 14th st between 2nd and 3rd ave)
+I roll in around 8:30 and talk to the older woman DJing (from 7-11pm). She says she used to spin every week there and now is only asked to spin once per month on the happy hour shift. She says for the 4 hours she works, she makes about $75- but it&amp;rsquo;s not about the money, she does it ​because she loves it.&lt;/p&gt;
 
+&lt;p&gt;Bar 13 (sports bar on 9th and 2nd ave)
+This bar is always filled with the &amp;lsquo;I just turned 21 crowd&amp;rsquo;. Cheap drinks and beer pong.  The DJ booth is this awful box at the end of the bar - you can barely see the guy. It&amp;rsquo;s unlikely people know that there is a DJ. In fact, even though I&amp;rsquo;d been there a number of times, I wasn&amp;rsquo;t sure they ever hired one. I go up to talk to the DJ, his name&amp;rsquo;s Anthony, and he says that he&amp;rsquo;s making less than $200 for over &lt;em&gt;6 hours&lt;/em&gt; of DJing. I ask him how he got hired and he says he knows the guy responsible for hiring the DJs be​c​ause they went to college together and that he&amp;rsquo;s actually a tech recruiter by day (interesting). The DJ says the whole business is quite &amp;ldquo;incestuous.&amp;rdquo; You hire who you know. That&amp;rsquo;s nothing new to me.&lt;/p&gt;
 
-&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;I can safely say that &lt;a href= &quot;http://www.deejbase.com&quot;&gt;DeeJBase.com&lt;/a&gt;, my baby, has grown up to be an awesome website. Here are some of my technical milestones over the past month. I have built:&lt;/p&gt;
+&lt;p&gt;Solas(9th st between 2nd and 3rd ave)
+I sit at the bar and ask the manager about how he hires DJs. He g​ets​ super cagey once I g​e​t to question 3. Anyway the DJ that spins there regularly is apparantly exclusively responsible for hiring any other DJs.&lt;/p&gt;
+
+&lt;p&gt;Whisky Town (~4th and 2nd ave)
+The place is empty when I walk in around 10pm. I talk to one of the bartenders for a while- he&amp;rsquo;s very nice. He tells me that one manager hires the DJs for all 4 of the bars, which are under the same management. There are the same people each Thurs, Fri and Sat that regularly spin. He says that if I were to get a job, they&amp;rsquo;d require me to play &amp;ldquo;top-40 generic kind of music just so I know &amp;rsquo;s what I&amp;rsquo;d be getting into.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Von Keller AKA Von (Bowery and Bleaker)
+The place is very crowded and people are having a good time.. I go up to the DJ and ask him how how much he charges​.​  He takes a beat and before he can answer, I say &amp;ldquo;you&amp;rsquo;d charge more for a private event th​a​n something like this&amp;rdquo; he nods n agreement. He sa​ys​ he&amp;rsquo;d charge anywhere from $500-1000 for a private party and hands me his card.&lt;/p&gt;
+
+&lt;p&gt;Bowery Electric (2nd and Bowery)
+I was here most of the night and had a generally good time. ​People were dancing and​ for the most part,​ having a lot of fun. The DJ played mostly top-40, some older songs, some new pop songs that I wasn&amp;rsquo;t familiar with but the groups of 22 year olds were singing along to​. Just because someone plays the crowd-pleasers doesn&amp;rsquo;t mean I&amp;rsquo;m not going to enjoy it or that the DJ isn&amp;rsquo;t good. But there are very obvious changes to how a DJ plays a progression of music that regardless of the song selection, distinguish a shitty DJ. And it baffles and hurts when someone in a position as a DJ at a crowded popular bar can&amp;rsquo;t do that bear minimum. For example, the DJ regularly was playing almost the ENTIRE song. Like, it&amp;rsquo;s fine that you played Katy Perry -Last Friday Night- I genuinely like that song but when you&amp;rsquo;ve gotten to &lt;em&gt;the third verse &lt;/em&gt; Seriously, the third verse, you&amp;rsquo;ve done something wrong.&lt;/p&gt;
+
+&lt;p&gt;But then on the same token, it didn&amp;rsquo;t really matter. People, for the most part, were having a blast. I had a good time dancing and singing along to few of the songs, whereas others made me want to go up there and smash her laptop. They made me genuinely angry.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t think th​e majority of the crowd was as discerning as me.&lt;/p&gt;
+
+&lt;p&gt;What does this mean in terms of DeeJBase?&lt;/p&gt;
+
+&lt;p&gt;There are 2 types of people in this industry:&lt;br&gt;
+1. Those who care about a crowded room where people are drinking and having fun. These people include, pretty much any bar manager, pretty much any DJ, and most consumers of DJ music and nightlife - people like you and me. This is what matters most in a general sense. This is why people stay out and drink and make the business possible.&lt;br&gt;
+2. Then there are people who care not only about having a good time, about drinking and dancing, but about the art of DJing - that appreciate a DJ that doesn&amp;rsquo;t just play &amp;ldquo;crowd pleasers.&amp;rdquo; And even if they stick with top-40, that they play that music in a way that make sense, that they transition seamlessly, that they don&amp;rsquo;t keep the same song on for more than 2 minutes, that keeps us interested beyond the cheap shots.  Those people who care- who value &lt;em&gt;the art&lt;/em&gt;, those are the people that I want to bring together - that need a voice. And those people include a subset of bar managers like those at Folly, VIP Room, and Madame X. A subset of nightlife consumers, like myself. And many, not all, but many DJs. Many DJs who have no gigs - who would also work for peanuts and deserve that rush that comes with seeing an elated crowd.&lt;/p&gt;
+
+&lt;p&gt;So that&amp;rsquo;s who DeeJBase is for. It&amp;rsquo;s for talented DJs, the venues who hire them, and the people who love them.&lt;/p&gt;
+&lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>My Pride And Joy</title>
+   <link href="http://strohy1210.github.io///2015/01/10/my-pride-and-joy/"/>
+   <updated>2015-01-10T00:00:00-05:00</updated>
+   <id>http://strohy1210.github.io//2015/01/10/my-pride-and-joy</id>
+   <content type="html">&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;I can safely say that &lt;a href= &quot;http://www.deejbase.com&quot;&gt;DeeJBase.com&lt;/a&gt;, my baby, has grown up to be an awesome website. Here are some of my technical milestones over the past month. I have built:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;A database with about 250 real NYC DJs with photos and demos from soundcloud.&lt;/p&gt;&lt;/li&gt;
@@ -97,25 +103,15 @@ I was here most of the night and had a generally good time. What I noticed was p
 &lt;p&gt;Full-stack web developement is amazing. I. love. it.&lt;/p&gt;
 
 &lt;p&gt;But now I need to get real and put on my business, lean-startup hat. As of two days ago, I had talked to a bunch of other (succesfull and unsuccesful) entrepreneurs for advice but hadn&amp;rsquo;t really interfaced with many potential target customers (venues and event-planners hiring DJs). So that&amp;rsquo;s what I started doing yesterday. I&amp;rsquo;m going to write a separate post about that.&lt;/p&gt;
-&lt;/div&gt;
-</content>
+&lt;/div&gt;</content>
  </entry>
  
  <entry>
    <title>Predictive Algorithms</title>
-   <link href="http://getpoole.com//2015/01/05/predictive-algorithms/"/>
+   <link href="http://strohy1210.github.io///2015/01/05/predictive-algorithms/"/>
    <updated>2015-01-05T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2015/01/05/predictive-algorithms</id>
-   <content type="html">
-
-&lt;time class=&#39;entry-date&#39; datetime=&#39;2015-01-05T10:37:03-05:00&#39;&gt;&lt;span class=&#39;date&#39;&gt;&lt;span class=&#39;date-month&#39;&gt;Jan&lt;/span&gt; &lt;span class=&#39;date-day&#39;&gt;5&lt;/span&gt;&lt;span class=&#39;date-suffix&#39;&gt;th&lt;/span&gt;, &lt;span class=&#39;date-year&#39;&gt;2015&lt;/span&gt;&lt;/span&gt; &lt;span class=&#39;time&#39;&gt;10:37 am&lt;/span&gt;&lt;/time&gt;
-        
-      &lt;/p&gt;
-    
-
-
-
-&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;So, you&amp;rsquo;ve got a data set, you say? Some points And you&amp;rsquo;re not sure what do with them. Maybe you have a set of x and y coordinates?&lt;/p&gt;
+   <id>http://strohy1210.github.io//2015/01/05/predictive-algorithms</id>
+   <content type="html">&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;So, you&amp;rsquo;ve got a data set, you say? Some points And you&amp;rsquo;re not sure what do with them. Maybe you have a set of x and y coordinates?&lt;/p&gt;
 
 &lt;p&gt;In my case, I had a set of coordinates, each representing the number of an DJs followers on SoundCloud. I had another set of coordinates that represented an DJ&amp;rsquo;s cost per night.&lt;/p&gt;
 
@@ -198,17 +194,14 @@ I was here most of the night and had a generally good time. What I noticed was p
 &lt;p&gt;That all said, this algorithm is pretty shit. It turns out soundcloud followers isn&amp;rsquo;t the greatest determiner of cost/night. I&amp;rsquo;ll need to take some other factors into account.&lt;/p&gt;
 
 &lt;p&gt;Hope this is helpful.&lt;/p&gt;
-&lt;/div&gt;
-
-
-</content>
+&lt;/div&gt;</content>
  </entry>
  
  <entry>
    <title>Entrepreneur Dot New</title>
-   <link href="http://getpoole.com//2014/12/15/entrepreneur-dot-new/"/>
+   <link href="http://strohy1210.github.io///2014/12/15/entrepreneur-dot-new/"/>
    <updated>2014-12-15T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2014/12/15/entrepreneur-dot-new</id>
+   <id>http://strohy1210.github.io//2014/12/15/entrepreneur-dot-new</id>
    <content type="html">&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;I&amp;rsquo;m an entrepreneur. I don&amp;rsquo;t yet have a successful business. But I am building one. Using Lean Startup methodology a la Eric Reise.&lt;/p&gt;
 
 &lt;p&gt;I don&amp;rsquo;t know exactly what the end product I build will be or look like, just that there is a problem in the NYC DJ Market, an information gap so to speak. And it needs to be closed. There are far too many talented DJs and far too many places hiring shitty acts. There are far too many middle men where there needn&amp;rsquo;t be. Not enough data on how good a DJ is, how much they should be hired for, and where to find them.&lt;/p&gt;
@@ -229,26 +222,294 @@ I was here most of the night and had a generally good time. What I noticed was p
 
 &lt;p&gt;How? Out of 8000 possible users I could have added, I filtered for ones that indicated they were in NY, included contact info in their bios and had a paid plan- this was my best way of distinguishing between regular users - aka non-DJs - and DJs. This way of filtering ended up working fairly well, although I had to do some manual filtering out of agencys and non-music related entities that also have accounts on SoundCloud (e.g. New York Magazine, Def Records). I also have a Tracks table and have taken about 5 demos for each DJ using their SoundCloud IDs. I was pretty psyched when that all worked out.&lt;/p&gt;
 &lt;/div&gt;
-
-
-
 </content>
  </entry>
  
  <entry>
+   <title>Why Coding Is Like Gambling</title>
+   <link href="http://strohy1210.github.io///2014/11/28/why-coding-is-like-gambling/"/>
+   <updated>2014-11-28T00:00:00-05:00</updated>
+   <id>http://strohy1210.github.io//2014/11/28/why-coding-is-like-gambling</id>
+   <content type="html">&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;Coding is like gambling. Why, you ask? I&amp;rsquo;ll start off by saying that I don&amp;rsquo;t gamble. But hear me out.
+&lt;br&gt;
+&lt;img src=&quot;http://www.ace-ten.com/wp-content/uploads/2014/03/2011-01-09-gambling_addiction.png&quot; alt=&quot;gambler&quot; /&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;From what I understand, gamblers live for the thrill of the win. There is nothing more satisfying. And when they lose, they keep going even though they&amp;rsquo;re hurting themselves because they know that that win is coming, and all the loss will feel okay when it happens (even if when it&amp;rsquo;s all said and done they&amp;rsquo;re in the red).&lt;/p&gt;
+
+&lt;p&gt;So how does it relate to coding?&lt;/p&gt;
+
+&lt;p&gt;You embark on some project, and all the progress you make is gratifying (the little wins) and then you reach a bug, and it&amp;rsquo;s like you&amp;rsquo;ve just lost and you won&amp;rsquo;t stop until that damn bug is fixed. And sometimes that bug hurts; it consumes you. Hours have gone by, and you need to sleep, but you must find that bug and kill it! After that you&amp;rsquo;ll settle your bets and go to bed. And then it happens - you find the bug! You feel relief, you&amp;rsquo;ve finally won again!&lt;/p&gt;
+
+&lt;p&gt;But then you want more. You told yourself you&amp;rsquo;d stop, but it felt so good and there&amp;rsquo;s so much more to be won- this is where the fun begins again, maybe you&amp;rsquo;ll get on a hot streak!&lt;/p&gt;
+
+&lt;p&gt;You get the point. Let&amp;rsquo;s just be thankful we&amp;rsquo;re usually gaining more than we lose :).&lt;/p&gt;
+&lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Dhh</title>
+   <link href="http://strohy1210.github.io///2014/11/05/dhh/"/>
+   <updated>2014-11-05T00:00:00-05:00</updated>
+   <id>http://strohy1210.github.io//2014/11/05/dhh</id>
+   <content type="html">&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;&lt;a href= &#39;http://david.heinemeierhansson.com/&#39;&gt;DHH&lt;/a&gt;, the creator of the Ruby on Rails framework(say what??), came today (via Skype) to speak to the Flatiron School&amp;rsquo;s Ruby006 class for a whole hour. It was rad that he took the time out to do that and awesome to hear what he had to say about Ruby and learning to program.&lt;/p&gt;
+
+&lt;p&gt;One thing he said that stuck with me was the following:&lt;/p&gt;
+
+&lt;p&gt;Programming with Ruby is more fun than any other language.&lt;/p&gt;
+
+&lt;p&gt;In fact, DHH said he didn&amp;rsquo;t really realize how much he loved to code until he started using Ruby to do it.&lt;/p&gt;
+
+&lt;p&gt;Although he could accomplish things pretty easily with languages like PHP (where there&amp;rsquo;s always a method that&amp;rsquo;ll take you directly where you need to go), the experience he had to get to that same program using Ruby was more enjoyable.&lt;/p&gt;
+
+&lt;p&gt;It wasn&amp;rsquo;t until he used Ruby that he could really look at code and say &amp;ldquo;This is beautiful.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;This was good to hear for a few reasons. I&amp;rsquo;ve spoken with a number of ex-programmers who&amp;rsquo;ve had negative feelings towards the profession (which I realize is not the same thing as having negative feelings towards programming in general). And it scared me that, although I&amp;rsquo;m loving what I&amp;rsquo;ve done so far with Ruby, that this would not translate at all to a work environment. But after hearing what DHH said, the negative feelings may make more sense, especially given the people with these feelings were using more primitive, &amp;ldquo;less expressive&amp;rdquo; languages like PHP or C.&lt;/p&gt;
+
+&lt;p&gt;On the flipside, if DHH didn&amp;rsquo;t love programming until Ruby, does that mean I won&amp;rsquo;t enjoy learning another language? That might pose a problem, especially because creating software for native mobile applications (so important right now) requires learning other languages, which involve frameworks which are closed- (not open source) like Objective C - the iOS language.&lt;/p&gt;
+
+&lt;p&gt;I can&amp;rsquo;t speak to these languages and their merrits personally, and I&amp;rsquo;ll deal with potentially not enjoying coding sometimes when it happens.&lt;/p&gt;
+
+&lt;p&gt;But the whole iOS app development thing brings me to another point DHH made- he said that the very fact that a language or a framework is &lt;a href=&#39;http://strohy1210.github.io/blog/2014/10/29/free-dot-99/&#39;&gt;open source&lt;/a&gt; changes the way it evolves and the way great developers (like DHH) will interact with it.&lt;/p&gt;
+
+&lt;p&gt;I loved the metaphor DHH used to describe what it was like developing an iPhone appilcation. In his early programming days, he programmed mostly for others, then he started his own business, BaseCamp and built this amazing framework, Rails - so, in short, he&amp;rsquo;s sort of surpasssed the whole &amp;ldquo;working for the man&amp;rdquo; thing at this point. And then all of a sudden he wants to create an iOS app, and it&amp;rsquo;s like he&amp;rsquo;s back in school; he has to submit an assignment and wait for the teacher to grade him (someone at Apple to approve it) for it to be available in the Apple store. Otherwise NO ONE can access it.&lt;/p&gt;
+
+&lt;p&gt;With open source software, anyone can create and contribute and immediately make amazing (or shitty software) available to whomever wants it.&lt;/p&gt;
+
+&lt;p&gt;Anyway, it was really damn awesome to hear this prolific guy speak to us. And full disclosure, I didn&amp;rsquo;t know he existed until a month ago, but Avi really talked him up so I was stoked when I saw him on the screen. Thanks DHH (and Avi Flombaum)!&lt;/p&gt;
+&lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Modules And Other Concerns</title>
+   <link href="http://strohy1210.github.io///2014/10/29/modules-and-other-concerns/"/>
+   <updated>2014-10-29T00:00:00-04:00</updated>
+   <id>http://strohy1210.github.io//2014/10/29/modules-and-other-concerns</id>
+   <content type="html">&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;First technical post. Yes, this is my first post where I actually take my instructor&amp;rsquo;s advice, which is to blog about the things in Ruby and Rails I am least certain about in an effort to better understand them.&lt;/p&gt;
+
+&lt;p&gt;One thing that I&amp;rsquo;m pretty sure is going to come in handy but don&amp;rsquo;t feel comfortable with is the Ruby Module. Let&amp;rsquo;s start simple and then extract. Module - what is it?&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Same, same, Class but different&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Just like a class it is a:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Object - just like everything else in Ruby&lt;/li&gt;
+&lt;li&gt;Constant&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And maybe other stuff, but I said I&amp;rsquo;d keep it simple for your sake of course (cough cough and mine).&lt;/p&gt;
+
+&lt;p&gt;Ok so let&amp;rsquo;s just write some code:&lt;/p&gt;
+
+&lt;figure class=&#39;code&#39;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#39;line-number&#39;&gt;1&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;2&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;3&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;4&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;5&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;6&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;7&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;8&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;9&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;10&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;11&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#39;code&#39;&gt;&lt;pre&gt;&lt;code class=&#39;ruby&#39;&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Singlish&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;possible?&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;    &lt;span class=&quot;s2&quot;&gt;&amp;quot;Can, lah!?&amp;quot;&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;available?&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;    &lt;span class=&quot;s2&quot;&gt;&amp;quot;Have?&amp;quot;&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;Ok so say you&amp;rsquo;re at 7/11 but in SINGAPORE or something and you want to find out if they sell Thai Redbull - very common situation. So you want to mixin your Singlish module into your English class so that you can call on some instance methods which basically translate your English to Singlish for you. We mixin the Singlish module by using the Ruby &amp;ldquo;include&amp;rdquo; keyword:&lt;/p&gt;
+
+&lt;p&gt;Can, la!&lt;/p&gt;
+
+&lt;figure class=&#39;code&#39;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#39;line-number&#39;&gt;1&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;2&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;3&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;4&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;5&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#39;code&#39;&gt;&lt;pre&gt;&lt;code class=&#39;ruby&#39;&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;English&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;kp&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Singlish&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;Now you can do this:&lt;/p&gt;
+
+&lt;figure class=&#39;code&#39;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#39;line-number&#39;&gt;1&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;2&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#39;code&#39;&gt;&lt;pre&gt;&lt;code class=&#39;ruby&#39;&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mo&quot;&gt;030&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;English&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;possible?&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Can, lah!?&amp;quot;&lt;/span&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;Ok, easy right?
+But what if we want our module to have a little more functionality?&lt;/p&gt;
+
+&lt;figure class=&#39;code&#39;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#39;line-number&#39;&gt;1&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;2&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;3&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;4&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;5&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;6&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;7&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;8&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;9&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;10&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;11&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;12&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;13&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;14&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;15&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;16&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;17&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;18&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;19&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;20&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;21&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#39;code&#39;&gt;&lt;pre&gt;&lt;code class=&#39;ruby&#39;&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Singlish&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;ClassMethods&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;translations&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;      &lt;span class=&quot;s2&quot;&gt;&amp;quot;I extended the Singlish module&amp;quot;&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;InstanceMethods&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;possible?&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;      &lt;span class=&quot;s2&quot;&gt;&amp;quot;Can, lah!?&amp;quot;&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;available?&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;      &lt;span class=&quot;s2&quot;&gt;&amp;quot;Have?&amp;quot;&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;Now within our Singlish module, we have both class and instance methods that we can mixin to our English class. But how do we do that, you ask? We continue to use the &amp;ldquo;include&amp;rdquo; keyword to include the module&amp;rsquo;s instance methods in the English class. To mixin the Singlish modules&amp;rsquo;s class methods, however, we must use the &amp;ldquo;extend&amp;rdquo; keyword.&lt;/p&gt;
+
+&lt;figure class=&#39;code&#39;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#39;line-number&#39;&gt;1&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;2&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;3&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;4&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;5&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;6&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;7&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#39;code&#39;&gt;&lt;pre&gt;&lt;code class=&#39;ruby&#39;&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;English&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;kp&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Singlish&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;InstanceMethods&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;kp&quot;&gt;extend&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Singlish&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;ClassMethods&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;Now, look what we can (and can&amp;rsquo;t) do!&lt;/p&gt;
+
+&lt;figure class=&#39;code&#39;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#39;line-number&#39;&gt;1&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;2&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;3&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;4&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;5&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;6&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;7&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;8&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;9&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;10&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;11&lt;/span&gt;
+&lt;span class=&#39;line-number&#39;&gt;12&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#39;code&#39;&gt;&lt;pre&gt;&lt;code class=&#39;ruby&#39;&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;c1&quot;&gt;#calling the class method, made possible by extend&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mo&quot;&gt;02&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;English&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;translations&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;I extended the Singlish module&amp;quot;&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt; &lt;span class=&quot;c1&quot;&gt;#trying to call the class method on an instance of English does not work&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mo&quot;&gt;02&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;9&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;English&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;translations&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;ss&quot;&gt;NoMethodError&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;undefined&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;method&lt;/span&gt; &lt;span class=&quot;sb&quot;&gt;`translations&amp;#39; for #&amp;lt;English:0x007fab3c0a7078&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;sb&quot;&gt;#but we can call the instance methods on instances of the English class!&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;sb&quot;&gt;2.1.2 :031 &amp;gt; English.new.available?&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;sb&quot;&gt; =&amp;gt; &amp;quot;Don&amp;#39;t have&amp;quot; &lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;sb&quot;&gt;2.1.2 :032 &amp;gt; English.available?&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#39;line&#39;&gt;&lt;span class=&quot;sb&quot;&gt;NoMethodError: undefined method `&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;available?&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;English&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Class&lt;/span&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;It doesn&amp;rsquo;t technically matter what you named the nested modules within the Singlish module. In my example, I name them (reasonably) &amp;ldquo;InstanceMethods&amp;rdquo; and &amp;ldquo;ClassMethods&amp;rdquo; but I could have named them &amp;ldquo;LeatherJacket&amp;rdquo; and &amp;ldquo;Tomato&amp;rdquo;. As long as I &amp;ldquo;include LeatherJacket&amp;rdquo; and &amp;ldquo;extend Tomato,&amp;rdquo; the class wil inherit LeatherJacket&amp;rsquo;s methods as instance methods and Tomato&amp;rsquo;s methods as class methods for the English class to use.&lt;/p&gt;
+&lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Free Dot 99</title>
+   <link href="http://strohy1210.github.io///2014/10/29/free-dot-99/"/>
+   <updated>2014-10-29T00:00:00-04:00</updated>
+   <id>http://strohy1210.github.io//2014/10/29/free-dot-99</id>
+   <content type="html">&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;How is rails free? How?!? It&amp;rsquo;s amazing, the power being given to the average 4-week old programmer through frameworks like rails.
+&lt;br&gt;
+&lt;img src=&quot;http://www.normandmistie.com/uploaded_images/DSC_0420---Copysm-709252.JPG&quot; alt=&quot;baby&quot; /&gt;
+&lt;br&gt;
+I can&amp;rsquo;t create rails? I&amp;rsquo;m only 4 weeks old. Look at me! Why do I deserve rails?
+&lt;br&gt;
+Ok, I literally just typed in my terminal: &amp;ldquo;Why is rails free?&amp;rdquo;
+That wasn&amp;rsquo;t helpful. Ok, how about&amp;hellip; &amp;ldquo;open source&amp;rdquo;?&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;In production and development, open source as a development model promotes a universal access via a free license to a product&amp;#8217;s design or blueprint, and universal redistribution of that design or blueprint, including subsequent improvements to it by anyone.&lt;/p&gt;&lt;footer&gt;&lt;strong&gt;[Wikipedia] [http://en.wikipedia.org/wiki/Open_source]&lt;/strong&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Good definition, but this still doesn&amp;rsquo;t tell me why I get rails.
+&lt;br&gt;
+Down the rabbit hole again. Ok, here we go. Here is this engaging video from RSA animate, where I think the answer is put very simply and elegantly. I encourage you to watch it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=u6XAPnuFjJc&quot;&gt;https://www.youtube.com/watch?v=u6XAPnuFjJc&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But in case you didn&amp;rsquo;t, the answer to why open source software exists is in what motivates us. And reputable studies show that in certain circumstances (those in which we are performing at least somewhat creative, thoughtful activities), money is not the greatest motivator. Actually, too much money can discourage us. Afer a certian income level (where we are being paid enough to not worry tremendously about subsisting), what motivates us most is our desire for three things:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.Autonomy &lt;/strong&gt; (our ability to be self-directed)&lt;br&gt;
+&lt;strong&gt;2.Mastery  &lt;/strong&gt;(desire to be be awesome at something)&lt;br&gt;
+&lt;strong&gt;3.Purpose  &lt;/strong&gt;(feeling that we are working toward a greater more transcendent goal than pure cash money dolla bills)&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s beautiful, and I am comfortable with that explanation for why amazing open source software exists (at least for now). But seriously, just watch that video. Cheers!&lt;/p&gt;
+&lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Hackaddiction</title>
+   <link href="http://strohy1210.github.io///2014/10/19/hackaddiction/"/>
+   <updated>2014-10-19T00:00:00-04:00</updated>
+   <id>http://strohy1210.github.io//2014/10/19/hackaddiction</id>
+   <content type="html">&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;This past Saturday afternoon, I wrote my first useful command line program from scratch. It was really fun. Every time I got a new piece of code working the way I envisioned it would, I felt like superwoman. The program allows you to type in &amp;ldquo;events&amp;rdquo; in your command line then it prints out all the cool music events happening that night in Brooklyn and New York and their venues using a scrape from Resident Advisor.&lt;/p&gt;
+
+&lt;p&gt;And today, I was thinking about that program that I only stopped working on because I had to meet up with some friends and how I could keep making it better and I got excited about figuring out how I would do that. And I knew I had reading and homework I was supposed to do for school. And then it dawned on me - the blessing and curse of computer programming.&lt;/p&gt;
+
+&lt;p&gt;Your program can never stop getting more amazing.&lt;/p&gt;
+
+&lt;p&gt;Maybe I&amp;rsquo;m getting ahead of myself by saying that. I mean I know for sure that my programs are far from amazing as a programming newb.&lt;/p&gt;
+
+&lt;p&gt;But even after I got my program working the way that I wanted when I first set out to work on the project, I started thinking of ways to improve it. And maybe that I&amp;rsquo;d finish those improvements today. And then I realize if I do that, I&amp;rsquo;ll never actually get to my assignments and there&amp;rsquo;s a lot more I should learn and should be devoting my time to that as well as being creative&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t even know how I would turn my command line app into a web application. But it&amp;rsquo;s so fun and validating to be able to create something- it&amp;rsquo;s scary. I&amp;rsquo;m incredibly powerful with my Ruby magic already. Imagine how powerful I&amp;rsquo;ll be in a week, in 3 weeks. I just need to remember to stay humble and keep learning from the amazing programmers accessible to me at the Flatiron School.&lt;/p&gt;
+&lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>Infinite Loop Dreams</title>
-   <link href="http://getpoole.com//2014/10/02/infinite-loop-dreams/"/>
+   <link href="http://strohy1210.github.io///2014/10/02/infinite-loop-dreams/"/>
    <updated>2014-10-02T00:00:00-04:00</updated>
-   <id>http://getpoole.com/2014/10/02/infinite-loop-dreams</id>
-   <content type="html">
-&lt;time class=&#39;entry-date&#39; datetime=&#39;2014-10-07T07:48:57-04:00&#39;&gt;&lt;span class=&#39;date&#39;&gt;&lt;span class=&#39;date-month&#39;&gt;Oct&lt;/span&gt; &lt;span class=&#39;date-day&#39;&gt;7&lt;/span&gt;&lt;span class=&#39;date-suffix&#39;&gt;th&lt;/span&gt;, &lt;span class=&#39;date-year&#39;&gt;2014&lt;/span&gt;&lt;/span&gt; &lt;span class=&#39;time&#39;&gt;7:48 am&lt;/span&gt;&lt;/time&gt;
-        
-      &lt;/p&gt;
-    
-  &lt;/header&gt;
-
-
-&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;&amp;ldquo;How do I get out&amp;hellip;how do I get out? If I don&amp;rsquo;t exit this loop, I won&amp;rsquo;t get up in time for school. What code do I need!?!?&lt;/p&gt;
+   <id>http://strohy1210.github.io//2014/10/02/infinite-loop-dreams</id>
+   <content type="html">&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;&amp;ldquo;How do I get out&amp;hellip;how do I get out? If I don&amp;rsquo;t exit this loop, I won&amp;rsquo;t get up in time for school. What code do I need!?!?&lt;/p&gt;
 
 &lt;figure class=&#39;code&#39;&gt;&lt;figcaption&gt;&lt;span&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#39;line-number&#39;&gt;1&lt;/span&gt;
 &lt;span class=&#39;line-number&#39;&gt;2&lt;/span&gt;

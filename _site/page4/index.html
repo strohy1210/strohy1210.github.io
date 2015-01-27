@@ -10,7 +10,7 @@
 
   <title>
     
-      Poole &middot; The Jekyll Butler
+      Programmer.new &middot; Taking it One Line at A Time
     
   </title>
 
@@ -23,7 +23,7 @@
   <link rel="shortcut icon" href="/public/favicon.ico">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/atom+xml" title="Poole" href="/atom.xml">
+  <link rel="alternate" type="application/atom+xml" title="Programmer.new" href="/atom.xml">
 </head>
 
 
@@ -32,8 +32,8 @@
     <div class="container content">
       <header class="masthead">
         <h3 class="masthead-title">
-          <a href="/" title="Home">Poole</a>
-          <small>The Jekyll Butler</small>
+          <a href="/" title="Home">Programmer.new</a><br>
+          <small>Taking it One Line at A Time</small>
         </h3>
       </header>
 
@@ -42,37 +42,97 @@
   
   <article class="post">
     <h1 class="post-title">
-      <a href="/2014/12/15/entrepreneur-dot-new/">
-        Entrepreneur Dot New
+      <a href="/2015/01/05/predictive-algorithms/">
+        Predictive Algorithms
       </a>
     </h1>
 
-    <time datetime="2014-12-15T00:00:00-05:00" class="post-date">15 Dec 2014</time>
+    <time datetime="2015-01-05T00:00:00-05:00" class="post-date">05 Jan 2015</time>
 
-    <div class="entry-content"><p>I&rsquo;m an entrepreneur. I don&rsquo;t yet have a successful business. But I am building one. Using Lean Startup methodology a la Eric Reise.</p>
+    <div class="entry-content"><p>So, you&rsquo;ve got a data set, you say? Some points And you&rsquo;re not sure what do with them. Maybe you have a set of x and y coordinates?</p>
 
-<p>I don&rsquo;t know exactly what the end product I build will be or look like, just that there is a problem in the NYC DJ Market, an information gap so to speak. And it needs to be closed. There are far too many talented DJs and far too many places hiring shitty acts. There are far too many middle men where there needn&rsquo;t be. Not enough data on how good a DJ is, how much they should be hired for, and where to find them.</p>
+<p>In my case, I had a set of coordinates, each representing the number of an DJs followers on SoundCloud. I had another set of coordinates that represented an DJ&rsquo;s cost per night.</p>
 
-<p>I want to build a product that solves this market inefficiency.</p>
+<p>I wanted to be able to use this data set to be able to predict given an artist&rsquo;s Soundcloud followers count, how much they might cost! So which set is the x and which is the y? And how do I go about this?</p>
 
-<p>I built a preliminary product, or MVP (minimum viable product). It&rsquo;s the skeleton of a hiring network. There&rsquo;s just no data in it (making it useless). The next step, therefore, is getting a ton of data on NYC DJs to present to NYC venues (my customer) to use as a hiring tool (think Elance for DJs). I figure once venues are using the product, then it won&rsquo;t be hard to convince aspiring DJs to sign up on their own.</p>
+<p>A great Rubyist once said, now we&rsquo;re in math world, so let&rsquo;s go to the Google.</p>
 
-<p>For the past few weeks, I was trying to figure out how to get this data as quickly as possible, so that I can  quickly measure how the customer responds to the product and revamp the product based on that new knowledge (Eric Reise&rsquo;s &lsquo;build, measure, learn&rsquo; feedback loop). Today, I poured over Spotify and Soundcloud API docs and what I learned was promising. I may be able to get most of the data I need pretty easily.</p>
+<p>I found these two sites, which combined helped me make my algorithm pretty easily.</p>
 
-<p>Stay tuned for part II of this post.</p>
+<p>The data we have is x and the data we are predicting would be y.</p>
 
-<p>&ldquo;Entrepreneurship is a special kind of insanity&rdquo; -me</p>
+<p>In this website all you do is plug in your x, y coordinates and it creates for lines of best fit.</p>
 
-<p>UPDATE 1/9/15</p>
+<p><a href="http://www.had2know.com/academics/regression-calculator-statistics-best-fit.html">http://www.had2know.com/academics/regression-calculator-statistics-best-fit.html</a></p>
 
-<p>I realized I never followed up on this post. Shortly after I wrote part I, I was able to get around 250 djs in my database from SoundCloud&rsquo;s api!</p>
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>
+</span><span class='line'>4 Regression Equations
+</span><span class='line'>X independent, Y dependent
+</span><span class='line'>
+</span><span class='line'>Linear: Y = AX + B:
+</span><span class='line'>Y = 0.2243X + 258.589
+</span><span class='line'>correlation = 0.9954
+</span><span class='line'>
+</span><span class='line'>Exponential: Y = C(D^X):
+</span><span class='line'>Y = 349.6169(1.0001^X)
+</span><span class='line'>correlation = 0.8647
+</span><span class='line'>
+</span><span class='line'>Power: Y = E(X^F):
+</span><span class='line'>Y = 31.8027(X^0.4464)
+</span><span class='line'>correlation = 0.8692
+</span><span class='line'>
+</span><span class='line'>Logarithmic: Y = G + H(Ln(X)):
+</span><span class='line'>Y = -3363.0363 + 713.5463Ln(X)
+</span><span class='line'>correlation = 0.7238
+</span></code></pre></td></tr></table></div></figure>
 
-<p>How? Out of 8000 possible users I could have added, I filtered for ones that indicated they were in NY, included contact info in their bios and had a paid plan- this was my best way of distinguishing between regular users - aka non-DJs - and DJs. This way of filtering ended up working fairly well, although I had to do some manual filtering out of agencys and non-music related entities that also have accounts on SoundCloud (e.g. New York Magazine, Def Records). I also have a Tracks table and have taken about 5 demos for each DJ using their SoundCloud IDs. I was pretty psyched when that all worked out.</p>
+
+<p>Then you can use this site to graph them - which isn&rsquo;t technically necessary but it helped me see which type of line seemed to make sense.</p>
+
+<p><a href="http://www.mathsisfun.com/data/grapher-equation.html">http://www.mathsisfun.com/data/grapher-equation.html</a></p>
+
+<p>It&rsquo;s pretty neat and helped me discover the following method aka my predictive algorithm. (sdcl_followers is an attribute of a Dj.)</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Dj</span> <span class="o">&lt;</span> <span class="no">ActiveRecord</span><span class="o">::</span><span class="no">Base</span>
+</span><span class='line'><span class="o">.</span><span class="n">.</span><span class="o">.</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">rate_get</span>
+</span><span class='line'>    <span class="mi">29</span><span class="o">.</span><span class="mi">3447</span><span class="o">*</span><span class="p">(</span><span class="n">sdcl_followers</span><span class="o">**</span><span class="mi">0</span><span class="o">.</span><span class="mi">4635</span><span class="p">)</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>That all said, this algorithm is pretty shit. It turns out soundcloud followers isn&rsquo;t the greatest determiner of cost/night. I&rsquo;ll need to take some other factors into account.</p>
+
+<p>Hope this is helpful.</p>
 </div>
-
-
-
-
   </article>
   
 </div>
@@ -92,7 +152,7 @@
 
       <footer class="footer">
         <small>
-          &copy; <time datetime="2015-01-23T15:37:43-05:00">2015</time>. All rights reserved.
+          &copy; <time datetime="2015-01-27T14:27:32-05:00">2015</time>. All rights reserved.
         </small>
       </footer>
     </div>
