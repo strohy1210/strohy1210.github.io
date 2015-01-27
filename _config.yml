@@ -3,9 +3,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Programmer.new
+tagline:          Taking it One Line at A Time
+url:              http://strohy1210.github.io/
 paginate:         1
 baseurl:          /
 author:
