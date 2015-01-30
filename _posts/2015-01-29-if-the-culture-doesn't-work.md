@@ -1,5 +1,8 @@
+<cite> 
+"You have to be strong enough to say if the culture doesn't work, don't buy it"</cite> <br> ― Morrie from Mitch Albom's <em>Tuesdays with Morrie</em>
+<p>
 Gender inequality was always something I knew was a thing.
-
+</p>
 However, it wasn't something that affected my life until I went to college and started to enter into the professional world. As a woman, who had big ambitions professionally, I became aware of the lack of female CEOs. I realized that a women's traditional role as the primary caregiver, for example, made people hesitant to promote them. I even met one guy on OKCupid, a trading assistant at Bank of America Merril Lynch, who straight up said that he thinks women on average are not as smart as men.
 
 ![placeholder](http://cdn.shopify.com/s/files/1/0185/5092/products/persons-0087.png?v=1369543950 "Small example image")
